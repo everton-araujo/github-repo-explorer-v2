@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "github-repo-explorer",
+    "slug": "github-repo-explorer",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
